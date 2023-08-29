@@ -1,0 +1,14 @@
+{
+  "name": "PaperBox",
+  "short_name": "PaperBox",
+  "icons": [
+    {
+      "src": "./public/images/monad.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff"
+}
